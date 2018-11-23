@@ -1,0 +1,32 @@
+MISS:    page 1
+MISS:    page 2
+MISS:    page 3
+MISS:    page 4
+MISS:    page 5
+MISS:    page 6
+MISS:    page 7
+MISS:    page 8
+HIT:     page 1
+MISS:    page 9
+REPLACE: page 2
+MISS:    page 10
+REPLACE: page 3
+MISS:    page 11
+REPLACE: page 4
+MISS:    page 12
+REPLACE: page 6
+MISS:    page 13
+REPLACE: page 7
+HIT:     page 5
+HIT:     page 1
+MISS:    page 14
+REPLACE: page 8
+MISS:    page 16
+REPLACE: page 9
+MISS:    page 17
+REPLACE: page 10
+MISS:    page 18
+REPLACE: page 11
+events in trace:    20
+total disk reads:   17
+total disk writes:  0
